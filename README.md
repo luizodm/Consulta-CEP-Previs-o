@@ -1,6 +1,6 @@
 # Consulta de CEP & Previsão do Tempo (ViaCEP / BrasilAPI / Nominatim / Open-Meteo)
 
-🔗 **Demo (Vercel): [https://seu-projeto.vercel.app](https://consulta-cep-previs-o.vercel.app/)([https://seu-projeto.vercel.app](https://consulta-cep-previs-o.vercel.app/))**  
+🔗 **Demo (Vercel): [https://consulta-cep-previs-o.vercel.app]**  
 > Substitua pelo link real após o deploy.
 
 Aplicação front-end simples (HTML + Bootstrap + JavaScript) para:
